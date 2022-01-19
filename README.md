@@ -60,8 +60,17 @@ Before making any changes, ensure you have raised an issue <a href="https://gith
 │   │   ├── style.css
 │   │   ├── global.css
 │   ├── assets
+│   │   ├── favicon
+│   │   │   ├── android-chrome-192x192
+│   │   │   ├── android-chrome-512x512
+│   │   │   ├── apple-touch-icon
+│   │   │   ├── favicon-16x16
+│   │   │   ├── favicon-32x32
+│   │   │   ├── favicon.ico
+│   │   │   ├── site.webmanifest   
 │   │   ├── profile-image
 │   │   ├── logo
+│   │   ├── index.html
 │   ├── js
 │   │   ├── script.js
 ├── .github
@@ -73,6 +82,7 @@ Before making any changes, ensure you have raised an issue <a href="https://gith
 ├── CONTRIBUTING.md
 ├── LICENSE
 ├── README.md
+├── REQUIREMENTS.md
 ├── package.json
 └── .gitignore
 ```
